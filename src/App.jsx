@@ -2,7 +2,6 @@ import { useState } from 'react'
 import './App.css'
 import ReuseComponant from './componant/componant'
 function App() {
-
   const [user, setUser] = useState([
     { name: 'aneesh', email: 'ufh@gmail.com' },
     { name: 'Arun', email: 'arun@gmail.com' },

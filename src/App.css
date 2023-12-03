@@ -8,9 +8,6 @@ body{
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-
-/* GlowingText.css */
-
 @keyframes glow {
   0% {
     text-shadow: 0 0 2px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #94c8f3, 0 0 35px #94c8f3, 0 0 40px #94c8f3, 0 0 50px #94c8f3;
@@ -25,5 +22,5 @@ body{
 
 span {
   animation: glow 2s ease-in-out infinite;
-  color: rgb(140, 140, 241); /* Text color */
+  color: rgb(140, 140, 241); 
 }

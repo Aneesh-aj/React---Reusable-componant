@@ -21,5 +21,3 @@ function ReuseComponant(props) {
 
 
 export default ReuseComponant
-
-b
